@@ -6,15 +6,21 @@
  * Course     : GI113 Computer Programming (GI)
  */
 
-using System;
-
 namespace Lab02
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            string bossName = "Kirin";
+            char rank = 'S';
+            int level = 7;
+            int maxHp = 240;
+            int currentHp = 175;
+            float attackPower = 42.5f;
+            double critMultiplier = 1.75;
+            bool isBoss = true;
+            
               // Lab02 Part A
             Console.WriteLine("===== BOSS STATUS: INITIAL =====");
             Console.WriteLine($"Name: {bossName}");
