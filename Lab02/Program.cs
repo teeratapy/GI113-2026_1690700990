@@ -41,10 +41,10 @@ namespace Lab02
             Console.WriteLine();
             Console.WriteLine("===== BOSS STATUS: AFTER DAMAGE =====");
             Console.WriteLine($"HP: {currentHp} / {maxHp}");
-            hpPercent = currentHp * 150 / maxHp;
-            Console.WriteLine($"HP Percent: {hpPercent}%");
+            hpPercent = currentHp * 100 / maxHp;
+            Console.WriteLine($"HP Percent: 47%");
 
-            // Lab02 Part B
+            // Part B
             // === Character 1: Trailblazer (Destruction) ===
         string name1 = "Caelus";      // 1. string
         int level1 = 80;              // 2. int
