@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ * Student ID :1690700990
+ * Name       :teeratap_yote
+ * Section    :129A
+ * No.        :
+ * Course     : GI113 Computer Programming (GI)
+ */
+
+using System;
 
 namespace Lab02
 {
