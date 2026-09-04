@@ -5,7 +5,9 @@
 * No.        :
 * Course     : GI113 Computer Programming (GI)
 */
+
 using System;
+
 namespace Lab03
 {
     internal class Program
