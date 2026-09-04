@@ -8,7 +8,7 @@
 
 using System;
 
-namespace Lab02
+namespace Lab03
 {
     internal class Program
     {
