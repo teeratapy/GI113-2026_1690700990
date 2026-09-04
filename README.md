@@ -10,7 +10,7 @@ Repository ส่วนตัวของวิชา **GI113 Computer Programmi
 ชื่อ-นามสกุล: teeratap_yotee
 Section: GI113-2026-129A
 รหัสนักศึกษา: 1690700990
-เลขที่: 
+เลขที่: 34
 ```
 
 ## กติกาการตั้งชื่อ (Naming Convention)
