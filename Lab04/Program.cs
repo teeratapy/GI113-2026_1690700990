@@ -1,6 +1,6 @@
 ﻿﻿/*
 * Student ID :1690700990
-* Name       :teeratap_yote
+* Name       :teeratap_yotee
 * Section    :129A
 * No.        :34
 * Course     : GI113 Computer Programming (GI)
