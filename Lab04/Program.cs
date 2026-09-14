@@ -1,10 +1,10 @@
-﻿// ==========================================
-// Student ID : 1690700990
-// Name       : teeratap_yotee
-// Section    : 129A
-// No.        : 34
-// ==========================================
-
+﻿﻿/*
+* Student ID :1690700990
+* Name       :teeratap_yote
+* Section    :129A
+* No.        :34
+* Course     : GI113 Computer Programming (GI)
+*/
 using System;
 
 namespace Lab04
