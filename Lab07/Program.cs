@@ -51,7 +51,6 @@ class Program
         {
             1 => 12,
             2 => 18,
-            4 => 5, // Adding power for the "Run" command
             _ => 0
         };
         int damage = Math.Max(0, power - monsterDefense);
